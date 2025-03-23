@@ -1,2 +1,2 @@
 # GamingFunk
-progetto di TSW di gruppo
+Progetto di gruppo per TSW
